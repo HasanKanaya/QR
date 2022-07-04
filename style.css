@@ -37,7 +37,7 @@ body {
   margin: 20px 0 25px;
 }
 
-.shape .form :where(input, button) {
+.shape .form button {
   width: 100%;
   height: 55px;
   border: none;
